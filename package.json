@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"mineflayer": "*",
+		"mineflayer-navigate": "*"
+	}
+}
